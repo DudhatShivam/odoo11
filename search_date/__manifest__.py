@@ -15,5 +15,7 @@
     'installable': True,
     'application': False,
     'auto_install': False,
+    'images': ['static/description/search_date.png'],
+    'license': 'AGPL-3',
     'price': 0.0,
 }
