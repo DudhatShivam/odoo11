@@ -15,5 +15,5 @@
     'installable': True,
     'application': False,
     'auto_install': False,
-    'price': 'Free',
+    'price': 0.0,
 }
